@@ -11,7 +11,6 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Shell-Bash%20/%20ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=99e836)
 
 &nbsp;

@@ -26,7 +26,6 @@
 ```
 
 <p align="center">
-<img src="https://i.ibb.co/M6rj6Pm/a.png" width="60">
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">

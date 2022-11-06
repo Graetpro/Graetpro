@@ -32,4 +32,4 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://www.xda-developers.com/public/build/images/xda-logo-full-colored-light.svg" width="60">
+<img src="https://www.xda-developers.com/public/build/images/xda-logo-full-colored-light.svg" width="600">

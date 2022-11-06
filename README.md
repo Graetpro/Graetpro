@@ -1,17 +1,4 @@
-<img src="./resource/mygithubprofile.svg">
 <samp>
-  
-- 👨🏽‍💻 我是安全爱好者/渗透测试者
-
-- 🤝🏽 寻找大佬一起成长
-
-- 🎲 兴趣：CTF / 或其它平台、为渗透测试中的自动化编写 Bash 脚本、Android 和各种奇怪的语言
-
-- 👾 Discord : <a href="https://discordapp.com/users/737907309308674049">Biaogo#5673</a>
-
-- ⚡ 吃 🍔 睡觉 😴 study 💻 UNO 🔁
-
-## 👨🏽‍💻 Skills & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/OS-Win11-informational?style=flat&logo=windows&logoColor=white&color=99e836)

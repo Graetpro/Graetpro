@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/OS-Win10-informational?style=flat&logo=windows&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=clion&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=openjdk&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=99e836)
 
 &nbsp;

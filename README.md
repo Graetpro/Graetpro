@@ -25,7 +25,7 @@
                                           ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚══════╝
 ```
 
-<p align="center">
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
